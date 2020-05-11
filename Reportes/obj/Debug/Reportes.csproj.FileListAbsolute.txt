@@ -1,0 +1,173 @@
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\Reportes.dll.config
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\Reportes.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\Reportes.pdb
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\csc.exe
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\csc.exe.config
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\csc.rsp
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\csi.exe
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\csi.exe.config
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\csi.rsp
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.AppContext.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.Console.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.Security.Claims.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\vbc.exe
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\vbc.exe.config
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\vbc.rsp
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\Antlr3.Runtime.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\Newtonsoft.Json.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\Rotativa.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\System.Web.Helpers.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\System.Web.Mvc.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\System.Web.Optimization.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\System.Web.Razor.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\System.Web.WebPages.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\WebGrease.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\System.Web.Helpers.xml
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\System.Web.Mvc.xml
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\System.Web.Optimization.xml
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\System.Web.Razor.xml
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\System.Web.WebPages.xml
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\Newtonsoft.Json.xml
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\Antlr3.Runtime.pdb
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\es\System.Web.Razor.resources.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\obj\Debug\Reportes.csprojAssemblyReference.cache
+C:\Users\Bioxor\source\repos\Reportes\Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Reportes\Reportes\obj\Debug\Reportes.csproj.CopyComplete
+C:\Users\Bioxor\source\repos\Reportes\Reportes\obj\Debug\Reportes.dll
+C:\Users\Bioxor\source\repos\Reportes\Reportes\obj\Debug\Reportes.pdb
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\Reportes.dll.config
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\Reportes.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\Reportes.pdb
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\csc.exe
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\csc.exe.config
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\csc.rsp
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\csi.exe
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\csi.exe.config
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\csi.rsp
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.AppContext.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.Console.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.IO.Compression.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.IO.Pipes.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.Security.Claims.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.ValueTuple.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\vbc.exe
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\vbc.exe.config
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\vbc.rsp
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\VBCSCompiler.exe
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\Antlr3.Runtime.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\Newtonsoft.Json.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\Rotativa.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\System.Web.Helpers.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\System.Web.Mvc.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\System.Web.Optimization.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\System.Web.Razor.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\System.Web.WebPages.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\System.Web.WebPages.Razor.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\WebGrease.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\System.Web.Helpers.xml
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\System.Web.Mvc.xml
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\System.Web.Optimization.xml
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\System.Web.Razor.xml
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\System.Web.WebPages.xml
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\System.Web.WebPages.Razor.xml
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\Newtonsoft.Json.xml
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\Antlr3.Runtime.pdb
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\es\System.Web.Helpers.resources.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\es\System.Web.Mvc.resources.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\es\System.Web.Optimization.resources.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\es\System.Web.Razor.resources.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\es\System.Web.WebPages.resources.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\obj\Debug\Reportes.csprojAssemblyReference.cache
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\obj\Debug\Reportes.csproj.CopyComplete
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\obj\Debug\Reportes.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\obj\Debug\Reportes.pdb
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\MySql.Data.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\Google.Protobuf.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\BouncyCastle.Crypto.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\Ubiety.Dns.Core.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\Renci.SshNet.dll
+C:\Users\esaar\Desktop\Reportes con Rotativa MVC .Net Framework\Reportes\Reportes\bin\MySql.Data.xml

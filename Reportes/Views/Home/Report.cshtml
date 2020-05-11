@@ -1,0 +1,89 @@
+﻿@model List<Reportes.Models.ViewModel.ventas>
+@{
+    Layout = null;
+}
+
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
+
+<div class="container">
+
+
+
+    <div class="row" style="text-align:center;">
+        <h1 style="color:cadetblue;">Reporte de Ventas Totales con PDF</h1>
+        <br />
+    </div>
+
+
+    <div class="row" style="text-align:center;">
+        <img style="width:300px; height:125px;" src="https://fotografias.lasexta.com/clipping/cmsimages01/2019/08/09/2FD64335-1792-4E56-AE10-C42D0E00B456/58.jpg" />
+
+    </div>
+
+    <div class="row" style="text-align:left;">
+        <h1>Reporte de Ventas Totales con PDF</h1>
+        <br />
+        <h5>Practica 2 de Web 3</h5>
+        <br />
+        <h5>Aarón Castillo</h5>
+        <br />
+    </div>
+
+    <div class="row" style="text-align:left;">
+        <h4>
+            Ejemplo de un reporte realizado en ASP.NET con MVC y un FRAMEWORK, esta forma de reporte
+            es un poco más estructurado que con un archivo de Excel, pero al igual que en el otro proyecto
+            se puede obtener la información de una base de datos y darle el diseño deseado al reporte
+        </h4>
+    </div>
+
+    <br />
+    <div class="row" style="border: 1px solid #000;">
+        <div class="col-xs-2">
+            ID Venta
+        </div>
+        <div class="col-xs-2">
+            Cliente
+        </div>
+        <div class="col-xs-3">
+            descripción
+        </div>
+        <div class="col-xs-2">
+            Total
+        </div>
+        <div class="col-xs-3">
+            FechaCompra
+        </div>
+    </div>
+
+    @foreach (var oElement in Model)
+    {
+        <div class="row">
+            <div class="col-xs-2">
+                @oElement.IdVenta
+            </div>
+            <div class="col-xs-2">
+                @oElement.nCliente
+            </div>
+            <div class="col-xs-3">
+                @oElement.descripcion
+            </div>
+            <div class="col-xs-2">
+                @oElement.precioTotal
+            </div>
+            <div class="col-xs-3">
+                @oElement.fechaCompra
+            </div>
+        </div>
+    }
+
+</div>
+    <script src="~/Scripts/jquery-3.3.1.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+
+    <script>
+    $(document).ready(function () {
+       // document.location.href = "@Url.Content("~/Home/Print")"
+    })
+    </script>
+
